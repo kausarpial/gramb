@@ -1,0 +1,507 @@
+/*!------------------------------------------------------------------
+[MAIN STYLESHEET]
+
+PROJECT:	GramBlast
+VERSION:	1.0.0
+-------------------------------------------------------------------*/
+@import url("https://fonts.googleapis.com/css?family=Roboto:300,400,500,700");
+@import url("https://fonts.googleapis.com/css?family=Ubuntu:400,500,700");
+body {
+  line-height: 1.2;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  -webkit-font-smoothing: antialiased;
+}
+
+p {
+  letter-spacing: .5px;
+  color: #777777;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Ubuntu", sans-serif;
+  color: #000;
+  font-weight: 700;
+}
+
+h1, .h1 {
+  font-size: 55px;
+}
+
+h2, .h2 {
+  font-size: 40px;
+}
+
+h3, .h3 {
+  font-size: 34px;
+}
+
+h4, .h4 {
+  font-size: 24px;
+}
+
+h5, .h5 {
+  font-size: 20px;
+}
+
+h6, .h6 {
+  font-size: 18px;
+}
+
+.btn {
+  font-size: 16px;
+  border-radius: 4px;
+  padding: 18px 55px;
+  border: none;
+  letter-spacing: 1px;
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 500;
+  transition: .3s ease;
+}
+
+.btn:hover {
+  box-shadow: 4px 13px 25px 1px rgba(0, 0, 0, 0.1);
+}
+
+.btn-primary {
+  background: #22d5da;
+  color: #fff;
+}
+
+.btn-primary:hover {
+  background: #22d5da;
+  color: #fff;
+}
+
+.btn-secondary {
+  background: #c7a7f7;
+  color: #fff;
+}
+
+.btn-secondary:hover {
+  background: #c7a7f7;
+  color: #fff;
+}
+
+.btn-sm {
+  padding: 15px 30px;
+}
+
+.btn-white {
+  background: #fff;
+  color: #22d5da;
+}
+
+body {
+  background: #fafafa;
+}
+
+.section {
+  padding: 100px 0;
+}
+
+.section__title-center {
+  margin-bottom: 80px;
+  position: relative;
+}
+
+.section__title-center::before {
+  position: absolute;
+  content: '';
+  width: 100px;
+  height: 10px;
+  bottom: -10px;
+  left: 50%;
+  -webkit-transform: translateX(-50%);
+          transform: translateX(-50%);
+  background-color: #c7a7f7;
+  border-radius: 10px;
+}
+
+a {
+  color: #22d5da;
+}
+
+.main-nav {
+  padding: 25px 30px;
+  transition: .3s ease .02s;
+}
+
+.main-nav .navbar-nav .nav-item .nav-link {
+  color: #fff;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-size: 15px;
+  text-transform: capitalize;
+  letter-spacing: 1px;
+  position: relative;
+  z-index: 1;
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 500;
+}
+
+.main-nav .navbar-brand {
+  margin-right: 0;
+  text-align: center;
+}
+
+.main-nav .navbar-brand img {
+  max-width: 150px;
+}
+
+.main-nav .dropdown-menu {
+  padding: 10px;
+  border: none;
+  border-radius: 4px;
+  max-width: 350px;
+  box-shadow: 4px 13px 25px 1px rgba(0, 0, 0, 0.1);
+}
+
+.main-nav .dropdown-menu .dropdown-item {
+  font-family: "Ubuntu", sans-serif;
+  color: #777777;
+  padding: 10px 20px;
+  font-size: 15px;
+  font-weight: 500;
+}
+
+.main-nav .navbar-toggler {
+  outline: 0;
+}
+
+.main-nav.nav-bg {
+  background: #22d5da;
+  padding: 20px;
+  border: none;
+  box-shadow: 0px 0px 12px 0px rgba(0, 0, 0, 0.09);
+}
+
+.headroom {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  transition: all .5s ease-in-out;
+}
+
+.headroom--unpinned {
+  top: -150px;
+}
+
+@media (max-width: 991px) {
+  .headroom--unpinned {
+    top: 0;
+  }
+}
+
+.headroom--pinned {
+  top: 0;
+}
+
+.hero__area {
+  padding: 200px 0 150px;
+  background-image: linear-gradient(120deg, #31b6ff, #06e9c1);
+  position: relative;
+}
+
+.hero__area-content h2, .hero__area-content p {
+  color: #fff;
+}
+
+.hero__area-content h2 {
+  margin-bottom: 20px;
+}
+
+.hero__area-content p {
+  width: 70%;
+  margin-bottom: 30px;
+}
+
+.hero__area-images {
+  position: relative;
+  height: 630px;
+}
+
+.hero__area-images .floating-illu {
+  position: absolute;
+  box-shadow: 4px 13px 25px 1px rgba(0, 0, 0, 0.1);
+}
+
+.hero__area-images .large {
+  top: 0;
+  right: 0;
+}
+
+.hero__area-images .large img {
+  width: 280px;
+}
+
+.hero__area-images .medium {
+  left: 0;
+  bottom: 40px;
+}
+
+.hero__area-images .medium img {
+  width: 270px;
+}
+
+.hero__area-images .small {
+  right: 20px;
+  bottom: 0;
+}
+
+.hero__area-images .small img {
+  width: 300px;
+}
+
+.hero__area .scroll__down {
+  position: absolute;
+  left: 50%;
+  -webkit-transform: translateX(-50%);
+          transform: translateX(-50%);
+  bottom: 40px;
+}
+
+.hero__area .scroll__down i {
+  font-size: 30px;
+  color: #fff;
+}
+
+.hero__area .bottom-curve {
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+  left: 0;
+}
+
+.hero__area .bottom-curve img {
+  width: 100%;
+}
+
+.service {
+  padding: 100px 0;
+}
+
+.service__item {
+  padding: 100px 0;
+}
+
+.service__content h3 {
+  margin-bottom: 30px;
+}
+
+.service__content p {
+  margin-bottom: 30px;
+}
+
+.service__image {
+  position: relative;
+  height: 450px;
+}
+
+.service__image .image {
+  position: absolute;
+}
+
+.service__image .image img {
+  box-shadow: 4px 13px 25px 1px rgba(0, 0, 0, 0.1);
+}
+
+.service__image.followers .right {
+  right: 0;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+          transform: translateY(-50%);
+}
+
+.service__image.followers .left-top {
+  bottom: 250px;
+  left: 0;
+}
+
+.service__image.followers .left-top img {
+  border-radius: 100px;
+  max-width: 175px;
+}
+
+.service__image.followers .left-middle {
+  bottom: 185px;
+  left: 185px;
+}
+
+.service__image.followers .left-middle img {
+  border-radius: 100px;
+  max-width: 175px;
+}
+
+.service__image.followers .left-bottom {
+  bottom: 100px;
+  left: 20px;
+}
+
+.service__image.followers .left-bottom img {
+  border-radius: 100px;
+  max-width: 175px;
+}
+
+.service__image.likes .left {
+  left: 0;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+          transform: translateY(-50%);
+}
+
+.service__image.likes .right {
+  right: 0;
+  bottom: 0;
+}
+
+.service__image.likes .right img {
+  max-width: 350px;
+}
+
+.service__title-secondary {
+  position: relative;
+}
+
+.service__title-secondary::before {
+  content: '';
+  position: absolute;
+  width: 80px;
+  height: 10px;
+  background-color: #c7a7f7;
+  z-index: -1;
+  border-radius: 10px;
+  bottom: -10px;
+  left: 0;
+}
+
+.service__title-primary {
+  position: relative;
+}
+
+.service__title-primary::before {
+  content: '';
+  position: absolute;
+  width: 80px;
+  height: 10px;
+  background-color: #22d5da;
+  z-index: -1;
+  border-radius: 10px;
+  bottom: -10px;
+  right: 0;
+}
+
+.step {
+  background-image: linear-gradient(120deg, #31b6ff, #06e9c1);
+}
+
+.step .section__title {
+  margin-bottom: 100px;
+}
+
+.step__item {
+  background: #fff;
+  padding: 50px 40px;
+  border-radius: 6px;
+  box-shadow: 4px 13px 25px 1px rgba(0, 0, 0, 0.1);
+  position: relative;
+  margin-bottom: 50px;
+}
+
+.step__item .number {
+  position: absolute;
+  font-size: 40px;
+  width: 80px;
+  height: 80px;
+  display: block;
+  background: #fff;
+  text-align: center;
+  line-height: 80px;
+  box-shadow: 4px 13px 25px 1px rgba(0, 0, 0, 0.1);
+  border-radius: 100%;
+  top: -30px;
+  left: -30px;
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 700;
+}
+
+.step__item h3 {
+  margin-bottom: 30px;
+}
+
+.step .trialbox {
+  padding: 50px 20px;
+  background: #fff;
+  border-radius: 6px;
+  box-shadow: 4px 13px 25px 1px rgba(0, 0, 0, 0.1);
+}
+
+.feature__item {
+  margin-bottom: 50px;
+}
+
+.feature__item i {
+  font-size: 40px;
+  color: #22d5da;
+  display: inline-block;
+  margin-bottom: 15px;
+}
+
+.feature__item h3 {
+  margin-bottom: 10px;
+}
+
+.feature__item p {
+  line-height: 28px;
+}
+
+.feature .cta {
+  margin-top: 100px;
+}
+
+.feature .cta h3 {
+  margin-bottom: 20px;
+}
+
+.feature .cta p {
+  margin-bottom: 20px;
+}
+
+.blog {
+  background-image: linear-gradient(120deg, #31b6ff, #06e9c1);
+}
+
+.blog .section__title {
+  margin-bottom: 80px;
+}
+
+.blog__post {
+  border-radius: 6px;
+  overflow: hidden;
+  background: #fff;
+  margin-bottom: 50px;
+}
+
+.blog__post .post-content {
+  padding: 30px;
+}
+
+.blog__post .post-content .post-title {
+  margin-bottom: 20px;
+}
+
+.blog__post .post-content .post-excerpt {
+  margin-bottom: 20px;
+}
+
+.blog__post .post-content a {
+  font-family: "Ubuntu", sans-serif;
+  color: #182345;
+  font-size: 18px;
+  font-weight: 500;
+}
+
+/*# sourceMappingURL=maps/style.css.map */
