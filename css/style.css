@@ -202,7 +202,7 @@ a {
 
 .hero__area {
   padding: 200px 0 150px;
-  background-image: linear-gradient(120deg, #31b6ff, #06e9c1);
+  background-image: linear-gradient(120deg, #9795f0, #fbc8d4);
   position: relative;
 }
 
@@ -395,7 +395,7 @@ a {
 }
 
 .step {
-  background-image: linear-gradient(120deg, #31b6ff, #06e9c1);
+  background-image: linear-gradient(120deg, #9795f0, #fbc8d4);
 }
 
 .step .section__title {
@@ -471,7 +471,7 @@ a {
 }
 
 .blog {
-  background-image: linear-gradient(120deg, #31b6ff, #06e9c1);
+  background-image: linear-gradient(120deg, #9795f0, #fbc8d4);
 }
 
 .blog .section__title {
@@ -502,6 +502,31 @@ a {
   color: #182345;
   font-size: 18px;
   font-weight: 500;
+}
+
+.footer {
+  padding: 110px 0 80px;
+}
+
+.footer__links {
+  list-style: none;
+}
+
+.footer__links a {
+  padding: 7px 0;
+  display: inline-block;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  color: #777777;
+}
+
+.footer__copyright {
+  padding: 80px 0 0;
+}
+
+.footer__copyright p {
+  font-size: 14px;
 }
 
 /*# sourceMappingURL=maps/style.css.map */
