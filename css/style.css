@@ -89,6 +89,10 @@ h6, .h6 {
   padding: 15px 30px;
 }
 
+.btn-lg {
+  padding: 15px 80px;
+}
+
 .btn-white {
   background: #fff;
   color: #22d5da;
@@ -122,6 +126,59 @@ body {
 
 a {
   color: #22d5da;
+}
+
+.main-shadow {
+  box-shadow: 4px 13px 25px 1px rgba(0, 0, 0, 0.1);
+}
+
+.page__header {
+  padding: 200px 0 100px;
+  background-image: linear-gradient(120deg, #9795f0, #fbc8d4);
+}
+
+.page__title {
+  color: #fff;
+  margin-bottom: 30px;
+}
+
+.page__breadcrumb li {
+  font-family: "Ubuntu", sans-serif;
+  color: #fff;
+  font-size: 18px;
+}
+
+.page__breadcrumb li a {
+  color: #fff;
+  font-weight: 700;
+  text-decoration: none;
+  transition: .3s ease;
+}
+
+.page__breadcrumb li a i {
+  font-size: 14px;
+  display: inline-block;
+}
+
+a {
+  color: #22d5da;
+}
+
+a:hover {
+  color: #22d5da;
+}
+
+.text-link {
+  border-bottom: 1px dotted #22d5da;
+}
+
+.text-link:hover {
+  border-bottom: 1px solid #22d5da;
+  text-decoration: none;
+}
+
+.bg-primary-gradient {
+  background-image: linear-gradient(120deg, #9795f0, #fbc8d4);
 }
 
 .main-nav {
@@ -470,10 +527,6 @@ a {
   margin-bottom: 20px;
 }
 
-.blog {
-  background-image: linear-gradient(120deg, #9795f0, #fbc8d4);
-}
-
 .blog .section__title {
   margin-bottom: 80px;
 }
@@ -483,6 +536,7 @@ a {
   overflow: hidden;
   background: #fff;
   margin-bottom: 50px;
+  box-shadow: 4px 13px 25px 1px rgba(0, 0, 0, 0.1);
 }
 
 .blog__post .post-content {
@@ -502,6 +556,67 @@ a {
   color: #182345;
   font-size: 18px;
   font-weight: 500;
+}
+
+.blog__post.featured {
+  display: flex;
+  align-items: center;
+  padding: 40px;
+}
+
+.blog__post.featured .post-thumb {
+  flex-basis: 40%;
+}
+
+.blog__post.featured .post-content {
+  flex-basis: 60%;
+  padding: 0 0 0 40px;
+}
+
+.faq__accordion .card {
+  background: #fff;
+  box-shadow: 0px 6px 20px 1px rgba(0, 0, 0, 0.05);
+  margin-bottom: 30px;
+  border: none;
+}
+
+.faq__accordion .card .card-header {
+  padding: 0;
+  background: #fff;
+  border: none;
+}
+
+.faq__accordion .card .card-header h5 {
+  padding: 30px 30px 30px 60px;
+  font-size: 24px;
+  color: #182345;
+  cursor: pointer;
+  position: relative;
+}
+
+.faq__accordion .card .card-header h5::before {
+  position: absolute;
+  content: "\e64b";
+  font-family: "themify";
+  left: 25px;
+  font-size: 20px;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+          transform: translateY(-50%);
+  color: #22d5da;
+  transition: .3s ease;
+}
+
+.faq__accordion .card .card-header h5.collapsed::before {
+  -webkit-transform: translateY(-50%) rotate(-90deg);
+          transform: translateY(-50%) rotate(-90deg);
+}
+
+.faq__accordion .card .card-body {
+  padding: 0 30px 30px 60px;
+  color: #777777;
+  font-size: 16px;
+  line-height: 28px;
 }
 
 .footer {
