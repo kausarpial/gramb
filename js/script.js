@@ -13,7 +13,7 @@ $(document).ready(function () {
     $('a.page-scroll').on('click', function (event) {
         var $anchor = $(this);
         $('html, body').stop().animate({
-            scrollTop: ($($anchor.attr('href')).offset().top - 60)
+            scrollTop: ($($anchor.attr('href')).offset().top - 0)
         }, 700);
         event.preventDefault();
         if (screen.width < 992) {
@@ -38,6 +38,12 @@ $(document).ready(function () {
     //  AOS Initialize
     // -----------------------------
     AOS.init();
+
+    // -----------------------------
+    //  Smooth Scrollbar
+    // -----------------------------
+    var Scrollbar = window.Scrollbar;
+    Scrollbar.init(document.querySelector('#my-scrollbar'));
 });
 
 $(window).on('scroll', function () {
@@ -48,16 +54,3 @@ $(window).on('scroll', function () {
         $('.main-nav').removeClass('nav-bg');
     }
 });
-
-// -----------------------------
-// Smmoth Scroll
-// -----------------------------
-// function smoothScroll() {
-//     $('a.page-scroll').on('click', function (event) {
-//         var $anchor = $(this);
-//         $('html, body').stop().animate({
-//             scrollTop: ($($anchor.attr('href')).offset().top - 0)
-//         }, 1500);
-//         event.preventDefault();
-//     });
-// }

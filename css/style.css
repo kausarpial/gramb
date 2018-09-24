@@ -116,7 +116,7 @@ body {
   content: '';
   width: 100px;
   height: 10px;
-  bottom: -10px;
+  bottom: -17px;
   left: 50%;
   -webkit-transform: translateX(-50%);
           transform: translateX(-50%);
@@ -181,6 +181,22 @@ a:hover {
   background-image: linear-gradient(120deg, #9795f0, #fbc8d4);
 }
 
+.form-control {
+  height: 55px;
+  font-size: 14px;
+  padding: 10px 20px;
+}
+
+.form-control:focus {
+  outline: 0;
+  box-shadow: none;
+  border-color: #22d5da;
+}
+
+textarea.form-control {
+  height: auto;
+}
+
 .main-nav {
   padding: 25px 30px;
   transition: .3s ease .02s;
@@ -240,11 +256,11 @@ a:hover {
   top: 0;
   left: 0;
   right: 0;
-  transition: all .5s ease-in-out;
+  transition: all .8s ease-in-out;
 }
 
 .headroom--unpinned {
-  top: -150px;
+  top: -500px;
 }
 
 @media (max-width: 991px) {
@@ -319,11 +335,30 @@ a:hover {
   -webkit-transform: translateX(-50%);
           transform: translateX(-50%);
   bottom: 40px;
+  z-index: 2;
+  text-align: center;
+}
+
+.hero__area .scroll__down:hover {
+  text-decoration: none;
 }
 
 .hero__area .scroll__down i {
   font-size: 30px;
   color: #fff;
+  animation: updown .8s ease-in infinite alternate-reverse;
+}
+
+.hero__area .scroll__down span {
+  color: #fff;
+  font-size: 10px;
+  text-transform: uppercase;
+  font-family: "Ubuntu", sans-serif;
+  letter-spacing: 3px;
+}
+
+.hero__area .scroll__down span, .hero__area .scroll__down i {
+  display: block;
 }
 
 .hero__area .bottom-curve {
@@ -335,6 +370,28 @@ a:hover {
 
 .hero__area .bottom-curve img {
   width: 100%;
+}
+
+@-webkit-keyframes updown {
+  0% {
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+  }
+  100% {
+    -webkit-transform: translateY(10px);
+            transform: translateY(10px);
+  }
+}
+
+@keyframes updown {
+  0% {
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+  }
+  100% {
+    -webkit-transform: translateY(10px);
+            transform: translateY(10px);
+  }
 }
 
 .service {
@@ -431,7 +488,7 @@ a:hover {
   background-color: #c7a7f7;
   z-index: -1;
   border-radius: 10px;
-  bottom: -10px;
+  bottom: -15px;
   left: 0;
 }
 
@@ -447,7 +504,7 @@ a:hover {
   background-color: #22d5da;
   z-index: -1;
   border-radius: 10px;
-  bottom: -10px;
+  bottom: -15px;
   right: 0;
 }
 
@@ -498,6 +555,10 @@ a:hover {
 
 .feature__item {
   margin-bottom: 50px;
+  background: #fff;
+  padding: 35px 45px 30px;
+  box-shadow: 0px 15px 30px 0px rgba(0, 0, 0, 0.06);
+  border-radius: 6px;
 }
 
 .feature__item i {
@@ -509,10 +570,28 @@ a:hover {
 
 .feature__item h3 {
   margin-bottom: 10px;
+  font-size: 27px;
+  color: #1f262e;
 }
 
 .feature__item p {
   line-height: 28px;
+}
+
+.feature__item.violet {
+  border-bottom: 3px solid #c09df6;
+}
+
+.feature__item.red {
+  border-bottom: 3px solid #f6ae9d;
+}
+
+.feature__item.green {
+  border-bottom: 3px solid #1ecfd5;
+}
+
+.feature__item.orange {
+  border-bottom: 3px solid #ffc64c;
 }
 
 .feature .cta {
@@ -547,13 +626,20 @@ a:hover {
   margin-bottom: 20px;
 }
 
+.blog__post .post-content .post-title a {
+  color: #1f262e;
+  font-size: 27px;
+  text-decoration: none;
+  font-weight: 700;
+}
+
 .blog__post .post-content .post-excerpt {
   margin-bottom: 20px;
 }
 
 .blog__post .post-content a {
   font-family: "Ubuntu", sans-serif;
-  color: #182345;
+  color: #1f262e;
   font-size: 18px;
   font-weight: 500;
 }
@@ -589,7 +675,7 @@ a:hover {
 .faq__accordion .card .card-header h5 {
   padding: 30px 30px 30px 60px;
   font-size: 24px;
-  color: #182345;
+  color: #1f262e;
   cursor: pointer;
   position: relative;
 }
