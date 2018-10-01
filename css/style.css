@@ -197,6 +197,14 @@ textarea.form-control {
   height: auto;
 }
 
+.bg-primary {
+  background: #22d5da !important;
+}
+
+.bg-secondary {
+  background: #c7a7f7 !important;
+}
+
 .main-nav {
   padding: 25px 30px;
   transition: .3s ease .02s;
@@ -506,6 +514,252 @@ textarea.form-control {
   border-radius: 10px;
   bottom: -15px;
   right: 0;
+}
+
+/* ==================================================================================
+somrat starts from here
+===================================================================================== */
+.features__item {
+  margin-bottom: 100px;
+}
+
+.features__image {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  position: relative;
+  margin: auto;
+  margin-bottom: 20px;
+}
+
+.features__image.blue {
+  background: #EEF1FF;
+}
+
+.features__image.transparent {
+  width: 230px;
+  background: none;
+}
+
+.features__image.pink {
+  background: #FBEEFF;
+}
+
+.features__image.violet {
+  background: #F6EEFF;
+}
+
+.icon {
+  position: absolute;
+  width: auto;
+  height: 60px;
+  border-radius: 100px;
+  box-shadow: 0 7px 14px 1px rgba(0, 0, 0, 0.15);
+}
+
+.icon.squre {
+  border-radius: 8px;
+}
+
+.icon-post {
+  border-radius: 8px;
+  box-shadow: 0 7px 14px 1px rgba(0, 0, 0, 0.15);
+  position: absolute;
+  left: 0;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+          transform: translateY(-50%);
+}
+
+.icon-left {
+  left: 0;
+  top: 0px;
+}
+
+.icon-middle {
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+}
+
+.icon-right {
+  right: 0;
+  bottom: 0;
+}
+
+.icon-middle-right {
+  right: 0;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+          transform: translateY(-50%);
+}
+
+.icon-middle-right-2 {
+  right: -30px;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+          transform: translateY(-50%);
+}
+
+.icon-left-bottom {
+  left: 0;
+  bottom: 0;
+}
+
+.icon-semitop-left {
+  top: 30px;
+  left: -5px;
+}
+
+.icon-semibottom-right {
+  bottom: 30px;
+  right: -5px;
+}
+
+.delay-dot {
+  left: -20px;
+  bottom: -10px;
+}
+
+.support-dot {
+  left: -20px;
+  top: 30px;
+}
+
+.support-dot-2 {
+  right: -20px;
+  bottom: -10px;
+}
+
+.instant-dot {
+  bottom: 0px;
+  right: -20px;
+}
+
+.testimonial__slider {
+  border-radius: 10px;
+  background: #fff;
+  box-shadow: 4px 13px 25px 1px rgba(0, 0, 0, 0.1);
+  padding: 25px 40px;
+  margin-bottom: 30px;
+}
+
+.testimonial__slider .prevArrow,
+.testimonial__slider .nextArrow {
+  color: #fff;
+  font-size: 40px;
+  position: absolute;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+          transform: translateY(-50%);
+  border: 0;
+  background: transparent;
+  outline: 0;
+  cursor: pointer;
+}
+
+.testimonial__slider .prevArrow {
+  left: -50px;
+}
+
+.testimonial__slider .nextArrow {
+  right: -50px;
+}
+
+.testimonial__slides {
+  outline: 0;
+}
+
+.testimonial__slides h6 {
+  margin-bottom: 10px;
+}
+
+.testimonial__slides p {
+  margin-bottom: 10px;
+}
+
+.testimonial__slides ul li i {
+  color: #22d5da;
+  font-size: 16px;
+}
+
+.testimonial__slides span {
+  color: #acacac;
+}
+
+.rating-star li {
+  margin: 0 10px;
+}
+
+.rating-star li i {
+  color: #fff;
+  font-size: 40px;
+}
+
+.buy__steps {
+  background: #fff;
+  text-align: center;
+  padding: 40px 10px;
+  box-shadow: 4px 13px 25px 1px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  margin-bottom: 50px;
+}
+
+.expect__list li {
+  margin: 0 25px;
+}
+
+.expect__list img {
+  height: 30px;
+  width: auto;
+}
+
+.our__service {
+  margin-bottom: 50px;
+}
+
+.our__service h4 {
+  margin-bottom: 20px;
+}
+
+.pricing__item {
+  background: #fff;
+  text-align: center;
+  padding: 100px 50px;
+  box-shadow: 4px 13px 25px 1px rgba(0, 0, 0, 0.1);
+  margin-bottom: 50px;
+}
+
+.pricing__item h4 {
+  margin-bottom: 40px;
+}
+
+.pricing__item h4 span {
+  font-weight: 300;
+}
+
+.pricing__item h2 {
+  margin-bottom: 50px;
+}
+
+.pricing__item h2 span {
+  font-size: 25px;
+  font-weight: 300;
+  vertical-align: text-top;
+}
+
+.pricing__item h6 {
+  margin-top: -31px;
+}
+
+.pricing__item ul {
+  margin-bottom: 50px;
+}
+
+.pricing__item ul li {
+  list-style-type: none;
+  margin: 10px 0;
 }
 
 .step {

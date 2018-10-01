@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="565.135px" height="565.133px" viewBox="0 0 565.135 565.133" enable-background="new 0 0 565.135 565.133"
+	 xml:space="preserve">
+<g id="compass">
+	<g>
+		<g>
+			<circle fill="#FFFFFF" cx="282.567" cy="282.567" r="282.567"/>
+		</g>
+	</g>
+	<path fill="#FCD99D" d="M282.567,434.659c-83.863,0-152.091-68.229-152.091-152.092c0-83.863,68.228-152.09,152.091-152.09
+		s152.091,68.227,152.091,152.09C434.658,366.43,366.431,434.659,282.567,434.659z M282.567,159.554
+		c-67.83,0-123.013,55.184-123.013,123.013c0,67.829,55.183,123.014,123.013,123.014c67.83,0,123.012-55.185,123.012-123.014
+		S350.396,159.554,282.567,159.554z"/>
+	<path fill="#FCD99D" d="M322.817,377.561l-92.101-73.574l13.221-117.136l90.353,74.296L322.817,377.561z M261.413,291.292
+		l42.417-17.545l-37.003-30.426L261.413,291.292z"/>
+</g>
+</svg>
