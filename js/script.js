@@ -63,5 +63,10 @@ $(document).ready(function () {
         }
     });
 
+    setTimeout(function () {
+        var des = $('.odometer').attr('data-up');
+        console.log(des);
+        $('.odometer').html(des);
+    }, 1000);
 
 });

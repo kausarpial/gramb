@@ -19,6 +19,8 @@
   <link rel="stylesheet" href="plugins/bootstrap/bootstrap.min.css">
   <!-- AOS -->
   <link rel="stylesheet" href="plugins/aos/aos.css">
+  <!-- Odometer -->
+  <link rel="stylesheet" href="plugins/odometer/odometer-theme-default.css">
   <!-- Stylesheets -->
   <link href="css/style.css" rel="stylesheet">
   
@@ -89,7 +91,7 @@
     <div class="container">
         <div class="row">
             <div class="col-12 text-center">
-                <h1 class="page__title">Stats</h1>
+                <h1 class="page__title">Follower Count</h1>
                 <ul class="list-inline page__breadcrumb">
                     <li class="list-inline-item">
                         <a href="index.html">Home <i class="ti-angle-right"></i></a>
@@ -104,37 +106,37 @@
 </section>
 
 <section class="section">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-12 text-center">
-        <h2 class="section__title-center mb-4">Instagram Follower Count</h2>
-        <p class="mb-5">Real-time count for Instagram followers and media statistics</p>
-        <div class="col-lg-5 mx-auto">
-          <div class="follower">
-            <div class="follower__counter">
-              <img src="images/user.jpg" alt="user-img">
-              <h6>selenagomez</h6>
-              <h3>143,995,519</h3>
-              <a href="#">Instagram Followers</a>
-              <h3>1468</h3>
-              <p>Photos</p>
-              <a href="#" class="btn btn-primary">Follow User</a>
-            </div>
-            <h3 class="text-white">Share!</h3>
-            <p class="text-white">https://gramblast.com/stats?selenagomez</p>
-          </div>
-          <div class="error-msg">
-            ! Something went wrong. Please try again later.
-          </div>
-          <div class="follower__check mt-5">
-            <h4 class="mb-3">Check Live Instagram Stats</h4>
-            <input type="search" class="form-control text-center mb-3" id="search" placeholder="Type any Instagram Username">
-            <button class="btn btn-primary">Check</button>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-12 text-center">
+				<h2 class="section__title-center mb-4">Instagram Follower Count</h2>
+				<p class="mb-5">Real-time count for Instagram followers and media statistics</p>
+				<div class="col-lg-5 mx-auto">
+					<div class="follower">
+						<div class="follower__counter">
+							<img src="images/user.jpg" alt="user-img">
+							<h6>selenagomez</h6>
+							<h3 class="odometer" data-up="423234234">0</h3>
+							<a href="#">Instagram Followers</a>
+							<h3>1468</h3>
+							<p>Photos</p>
+							<a href="#" class="btn btn-primary">Follow User</a>
+						</div>
+						<h3 class="text-white">Share!</h3>
+						<a class="text-white" href="https://gramblast.com/stats?selenagomez">https://gramblast.com/stats?selenagomez</a>
+					</div>
+					<div class="error-msg">
+						! Something went wrong. Please try again later.
+					</div>
+					<div class="follower__check mt-5">
+						<h4 class="mb-3">Check Live Instagram Stats</h4>
+						<input type="search" class="form-control text-center mb-3" id="search" placeholder="Type any Instagram Username">
+						<button class="btn btn-primary">Check</button>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
 </section>
 
 <footer class="footer">
@@ -205,6 +207,8 @@
 <script src="plugins/headroomjs/headroom.min.js"></script>
 <!-- Parallax -->
 <script src="plugins/parallax/parallax.min.js"></script>
+<!-- Odometer -->
+<script src="plugins/odometer/odometer.min.js"></script>
 <!-- Main Script -->
 <script src="js/script.js"></script>
 </body>

@@ -1212,7 +1212,7 @@ somrat starts from here
 
 .follower__counter a {
   margin-bottom: 30px;
-  display: inline-block;
+  display: block;
 }
 
 .error-msg {
