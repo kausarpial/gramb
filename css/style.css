@@ -285,7 +285,9 @@ textarea.form-control {
 
 .hero__area {
   padding: 200px 0 150px;
-  background-image: linear-gradient(120deg, #9795f0, #fbc8d4);
+  background-image: url("../images/backgrounds/hero-bg.png");
+  background-size: cover;
+  background-position: bottom center;
   position: relative;
 }
 
@@ -304,39 +306,49 @@ textarea.form-control {
 
 .hero__area-images {
   position: relative;
-  height: 630px;
+  height: 580px;
 }
 
 .hero__area-images .floating-illu {
   position: absolute;
-  box-shadow: 4px 13px 25px 1px rgba(0, 0, 0, 0.1);
 }
 
 .hero__area-images .large {
-  top: 0;
-  right: 0;
+  bottom: 0;
+  left: 0;
+  animation: updown_illustration 4s ease-in infinite alternate-reverse;
 }
 
-.hero__area-images .large img {
-  width: 280px;
+.hero__area-images .large svg {
+  width: 320px;
+  height: auto;
 }
 
 .hero__area-images .medium {
-  left: 0;
-  bottom: 40px;
+  left: 50%;
+  -webkit-transform: translateX(-50%);
+          transform: translateX(-50%);
+  top: 0;
+  animation: updown_illustration_middle 2s ease-in infinite alternate-reverse;
+  -webkit-animation-delay: 1s;
+          animation-delay: 1s;
 }
 
-.hero__area-images .medium img {
-  width: 270px;
+.hero__area-images .medium svg {
+  width: 350px;
+  height: auto;
 }
 
 .hero__area-images .small {
-  right: 20px;
-  bottom: 0;
+  right: 0;
+  bottom: -30px;
+  animation: updown_illustration 4s ease-in infinite alternate-reverse;
+  -webkit-animation-delay: 1.5s;
+          animation-delay: 1.5s;
 }
 
-.hero__area-images .small img {
-  width: 300px;
+.hero__area-images .small svg {
+  width: 320px;
 }
 
 .hero__area .scroll__down {
@@ -371,17 +383,6 @@ textarea.form-control {
   display: block;
 }
 
-.hero__area .bottom-curve {
-  position: absolute;
-  width: 100%;
-  bottom: 0;
-  left: 0;
-}
-
-.hero__area .bottom-curve img {
-  width: 100%;
-}
-
 @-webkit-keyframes updown {
   0% {
     -webkit-transform: translateY(0);
@@ -401,6 +402,50 @@ textarea.form-control {
   100% {
     -webkit-transform: translateY(10px);
             transform: translateY(10px);
+  }
+}
+
+@-webkit-keyframes updown_illustration {
+  0% {
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+  }
+  100% {
+    -webkit-transform: translateY(15px);
+            transform: translateY(15px);
+  }
+}
+
+@keyframes updown_illustration {
+  0% {
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+  }
+  100% {
+    -webkit-transform: translateY(15px);
+            transform: translateY(15px);
+  }
+}
+
+@-webkit-keyframes updown_illustration_middle {
+  0% {
+    -webkit-transform: translate(-50%, 0);
+            transform: translate(-50%, 0);
+  }
+  100% {
+    -webkit-transform: translate(-50%, 15px);
+            transform: translate(-50%, 15px);
+  }
+}
+
+@keyframes updown_illustration_middle {
+  0% {
+    -webkit-transform: translate(-50%, 0);
+            transform: translate(-50%, 0);
+  }
+  100% {
+    -webkit-transform: translate(-50%, 15px);
+            transform: translate(-50%, 15px);
   }
 }
 
@@ -1132,6 +1177,49 @@ somrat starts from here
   color: #777777;
   font-size: 16px;
   line-height: 28px;
+}
+
+.follower {
+  background-image: linear-gradient(90deg, #6da7fb 0%, #3f83f3 100%);
+  padding: 40px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+}
+
+.follower__counter {
+  background: #fff;
+  border-radius: 8px;
+  padding: 40px;
+  margin-bottom: 40px;
+}
+
+.follower__counter img {
+  border-radius: 50%;
+  margin-bottom: 30px;
+}
+
+.follower__counter h6 {
+  margin-bottom: 30px;
+}
+
+.follower__counter h3 {
+  margin-bottom: 5px;
+}
+
+.follower__counter p {
+  margin-bottom: 30px;
+}
+
+.follower__counter a {
+  margin-bottom: 30px;
+  display: inline-block;
+}
+
+.error-msg {
+  padding: 15px;
+  color: #fff;
+  background-image: linear-gradient(120deg, #9795f0, #fbc8d4);
+  border-radius: 8px;
 }
 
 .footer {
