@@ -285,7 +285,7 @@ textarea.form-control {
 
 .hero__area {
   padding: 200px 0 150px;
-  background-image: url("../images/backgrounds/hero-bg.png");
+  background-image: url("../images/backgrounds/hero-bg.svg");
   background-size: cover;
   background-position: bottom center;
   position: relative;
@@ -329,7 +329,7 @@ textarea.form-control {
   -webkit-transform: translateX(-50%);
           transform: translateX(-50%);
   top: 0;
-  animation: updown_illustration_middle 2s ease-in infinite alternate-reverse;
+  animation: updown_illustration_middle 5s ease-in infinite alternate-reverse;
   -webkit-animation-delay: 1s;
           animation-delay: 1s;
 }
