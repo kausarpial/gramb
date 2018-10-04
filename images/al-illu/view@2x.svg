@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="198px" height="198px" viewBox="0 0 198 198" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>view@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="0%" x2="23.9162071%" y2="85.3056066%" id="linearGradient-1">
+            <stop stop-color="#1BAAFF" offset="0%"></stop>
+            <stop stop-color="#6CFDF4" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="0" width="102" height="102" rx="51"></rect>
+        <filter x="-93.1%" y="-53.9%" width="286.3%" height="286.3%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="40" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="25" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M51.0351802,33 C39.1760899,33 28.4213445,39.4881456 20.4855515,50.0271962 C19.8381495,50.890293 19.8381495,52.0966923 20.4855515,52.960424 C28.4213445,63.5112195 39.1760899,70 51.0351802,70 C62.8949054,70 73.6491747,63.5112195 81.5849677,52.9728038 C82.2328458,52.1090721 82.2328458,50.9033077 81.5849677,50.039576 C73.6491747,39.4881456 62.8949054,33 51.0351802,33 Z M51.8857385,64.5274771 C44.013908,65.0228293 37.5127477,58.5340488 38.0080999,50.6490449 C38.4142538,44.1478846 43.6834616,38.8786767 50.1846219,38.4725229 C58.0570873,37.9771707 64.5576128,44.4653163 64.0628954,52.3509551 C63.6437269,58.8391007 58.374519,64.1083086 51.8857385,64.5274771 Z M51.4927581,58.5086543 C47.2513941,58.7751382 43.7472654,55.2833893 44.0262879,51.042819 C44.2419827,47.5386902 47.0864883,44.7071993 50.5906171,44.478331 C54.831981,44.2118471 58.3361098,47.703596 58.0570873,51.9441663 C57.8283778,55.4614685 54.984507,58.2928007 51.4927581,58.5086543 Z" id="path-4"></path>
+        <filter x="-153.1%" y="-148.6%" width="406.1%" height="613.5%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="40" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="25" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Automatic-Likes" transform="translate(-708.000000, -123.000000)">
+            <g id="view" transform="translate(756.000000, 131.000000)">
+                <g id="Rectangle-6">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                    <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                </g>
+                <g id="Fill-1" opacity="0.485054348">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-4"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

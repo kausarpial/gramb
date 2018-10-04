@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="379px" height="202px" viewBox="0 0 379 202" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Engagement 25%@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="97.2200046%" y1="2.68528005%" x2="8.47827327%" y2="95.8941684%" id="linearGradient-1">
+            <stop stop-color="#FF5571" offset="0%"></stop>
+            <stop stop-color="#FF92A4" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="0" width="279" height="102" rx="10"></rect>
+        <filter x="-34.1%" y="-53.9%" width="168.1%" height="286.3%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="40" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="25" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M78.6221265,30.2065082 C75.662869,26.8489317 71.557962,25 67.0621114,25 C60.73993,25 56.7379637,28.7750959 54.4935084,31.9427851 C53.9111413,32.7644681 53.4155221,33.5884738 53.0002892,34.3637011 C52.5838996,33.5884738 52.0888587,32.7644681 51.5064916,31.9427851 C49.2620363,28.7750959 45.2594917,25 38.9373102,25 C34.442038,25 30.3365526,26.8489317 27.3772952,30.2065082 C24.554521,33.4096198 23,37.6992111 23,42.2849567 C23,47.2766079 24.9489344,51.9192615 29.1342278,56.8958146 C32.8742157,61.3439356 38.2554723,65.9285198 44.4862794,71.2372302 C46.8082295,73.2156568 49.2088309,75.2614441 51.7655785,77.4976991 L51.8419165,77.5650597 C52.1732932,77.8548263 52.5867912,78 53.0002892,78 C53.4132088,78 53.8261284,77.8548263 54.1580835,77.5650597 L54.2338432,77.4976991 C56.7905908,75.2614441 59.1917705,73.2162375 61.5137206,71.2366495 C67.7445277,65.9285198 73.125206,61.3439356 76.8657722,56.8958146 C81.0510656,51.9192615 83,47.2766079 83,42.2849567 C83,37.6992111 81.4449007,33.4096198 78.6221265,30.2065082" id="path-4"></path>
+        <filter x="-158.3%" y="-103.8%" width="416.7%" height="458.5%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="40" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="25" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Real-Instagram-Likes" transform="translate(-608.000000, -497.000000)">
+            <g id="Engagement-25%" transform="translate(658.000000, 507.000000)">
+                <g id="Rectangle-6-Copy">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                    <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                </g>
+                <g id="Fill-1" opacity="0.400000006">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-4"></use>
+                </g>
+                <text opacity="0.49756567" font-family="Ubuntu-Bold, Ubuntu" font-size="20" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="92" y="59">Engagement 25%</tspan>
+                </text>
+                <path d="M51.7373829,53.1103631 L47.619302,57.228444 L45.0870098,54.6961518 L53.5279839,46.2551777 L56.0602761,48.7874699 L61.9689579,54.6961518 L59.4366657,57.228444 L55.3185849,53.1103631 L55.3185849,64.8428908 L51.7373829,64.8428908 L51.7373829,53.1103631 Z" id="Combined-Shape-Copy" fill="#FFFFFF" transform="translate(53.527984, 55.549034) rotate(44.000000) translate(-53.527984, -55.549034) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

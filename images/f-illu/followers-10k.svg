@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="375px" height="198px" viewBox="0 0 375 198" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>10 k followers@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="279" height="102" rx="10"></rect>
+        <filter x="-33.0%" y="-51.0%" width="165.9%" height="280.4%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="40" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="24" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M58.8643803,52.8745486 C58.8981645,52.8490763 58.9308762,52.8222634 58.9646605,52.796255 C59.0158731,52.8455906 59.0662813,52.8951945 59.1258059,52.9375588 C59.1461837,52.9523059 59.0480485,52.9276381 58.8643803,52.8745486 M45.8791712,52.9268337 C45.9314563,52.8898319 45.9748931,52.8453225 46.0207432,52.80269 C46.0446066,52.8211909 46.068202,52.8407643 46.0923335,52.858729 C45.9405727,52.9131591 45.8614747,52.9383632 45.8791712,52.9268337 M75.0019796,63.9914363 L75.0019796,63.9581883 C75.0019796,63.8694377 74.9909863,63.7804189 74.9909863,63.6812113 C74.9250267,61.4857728 74.7829184,56.3524471 70.0276543,54.711767 C69.9946745,54.7005056 69.9509695,54.6897805 69.9179896,54.6785191 C65.6169357,53.568734 61.9478614,51.2416442 61.0402454,50.6348688 C64.5259197,45.761628 63.8984983,38.362346 63.8261035,37.619093 C63.5520759,31.7092663 60.7911538,28.8826526 58.5120591,27.5631908 C56.8139994,26.5764769 54.8306508,26.0447775 52.6175158,26 L52.4311663,26 C51.2149341,26 48.8264428,26.1994878 46.5363548,27.5192177 C44.2355417,28.8378751 41.4306464,31.6650251 41.1566188,37.619093 C41.084224,38.3626141 40.4568027,45.7648456 43.9448901,50.6380863 C43.0088525,51.2644352 39.3762436,53.5652483 35.0867193,54.6669895 C35.0430143,54.6785191 35.0103026,54.6897805 34.9773227,54.7005056 C30.2220586,56.3524471 30.0796822,61.4857728 30.0139907,63.6696817 C30.0139907,63.7691575 30.0139907,63.8579082 30.0029974,63.9466588 L30.0029974,63.9801749 C29.9920041,64.5566518 29.9810109,67.5167936 30.5615097,69.001959 C30.6714425,69.2904656 30.8685171,69.5347309 31.1312834,69.7009707 C31.4600093,69.9224451 39.3379012,75 52.5188444,75 C65.6997875,75 73.5776795,69.9111837 73.9064054,69.7009707 C74.1584464,69.5347309 74.3665144,69.2904656 74.4761791,69.001959 C75.0239662,67.5275188 75.0129729,64.5673769 75.0019796,63.9914363" id="path-3"></path>
+        <filter x="-211.1%" y="-112.2%" width="522.2%" height="487.8%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="40" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="25" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Instagram-Followers" transform="translate(-630.000000, -213.000000)">
+            <g id="10-k-followers" transform="translate(678.000000, 221.000000)">
+                <g id="Rectangle-6-Copy">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <text id="10k-Followers" font-family="Ubuntu-Bold, Ubuntu" font-size="20" font-weight="bold" fill="#B4C2C4">
+                    <tspan x="100" y="59">10k Followers</tspan>
+                </text>
+                <g id="Fill-1">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                    <use fill="#535BFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                </g>
+                <path d="M50.7373829,60.1103631 L46.619302,64.228444 L44.0870098,61.6961518 L52.5279839,53.2551777 L55.0602761,55.7874699 L60.9689579,61.6961518 L58.4366657,64.228444 L54.3185849,60.1103631 L54.3185849,71.8428908 L50.7373829,71.8428908 L50.7373829,60.1103631 Z" id="Combined-Shape-Copy" fill="#FFFFFF" transform="translate(52.527984, 62.549034) rotate(44.000000) translate(-52.527984, -62.549034) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

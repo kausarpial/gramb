@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="198px" height="198px" viewBox="0 0 198 198" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Followers@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="113.939951%" y1="-13.6335784%" x2="23.3379289%" y2="82.5482537%" id="linearGradient-1">
+            <stop stop-color="#CE93FF" offset="0%"></stop>
+            <stop stop-color="#ACDDFF" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="0" width="102" height="102" rx="51"></rect>
+        <filter x="-93.1%" y="-53.9%" width="286.3%" height="286.3%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="40" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="25" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M56.3716232,52.6915099 C56.4001489,52.6700025 56.427769,52.647363 56.4562947,52.6254028 C56.4995361,52.6670593 56.5420982,52.7089423 56.5923578,52.7447126 C56.6095637,52.7571643 56.5267034,52.736336 56.3716232,52.6915099 M45.4075692,52.7356568 C45.4517161,52.7044144 45.488392,52.6668329 45.5271055,52.6308362 C45.5472546,52.6464574 45.5671773,52.6629842 45.5875528,52.6781527 C45.4594135,52.7241107 45.3926272,52.7453918 45.4075692,52.7356568 M69.9973961,62.0780478 L69.9973961,62.0499749 C69.9973961,61.9750384 69.9881139,61.8998754 69.9881139,61.8161095 C69.9324209,59.9623922 69.8124319,55.6280716 65.7973273,54.2427643 C65.7694808,54.2332557 65.7325786,54.2242 65.704732,54.2146914 C62.0731396,53.277645 58.9751587,51.3127681 58.2088137,50.8004376 C61.1519408,46.6857195 60.6221779,40.4381398 60.5610515,39.8105746 C60.3296764,34.8206158 57.9984933,32.4339661 56.074141,31.3198793 C54.6403853,30.4867479 52.965746,30.0378079 51.0970867,30 L50.9397426,30 C49.9128176,30 47.8960964,30.1684374 45.9624619,31.2827506 C44.0197716,32.3961582 41.6514599,34.7832607 41.4200848,39.8105746 C41.3589583,40.4383662 40.8291954,46.6884362 43.7743601,50.8031543 C42.9840172,51.3320116 39.916826,53.2747019 36.2949685,54.2049564 C36.2580663,54.2146914 36.2304461,54.2242 36.2025996,54.2332557 C32.1874951,55.6280716 32.0672797,59.9623922 32.011813,61.8063745 C32.011813,61.8903669 32.011813,61.9653034 32.0025309,62.0402399 L32.0025309,62.0685392 C31.9932487,62.5552872 31.9839665,65.0546813 32.4741104,66.3086798 C32.5669321,66.5522802 32.733332,66.7585255 32.9551985,66.89889 C33.232758,67.0858918 39.8844516,71.3731224 51.0137735,71.3731224 C62.1430955,71.3731224 68.7947891,67.0763832 69.0723486,66.89889 C69.2851594,66.7585255 69.4608414,66.5522802 69.5534367,66.3086798 C70.0159605,65.0637371 70.0066783,62.564343 69.9973961,62.0780478" id="path-4"></path>
+        <filter x="-250.0%" y="-132.9%" width="600.0%" height="559.2%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="40" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="25" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Automatic-Likes" transform="translate(-698.000000, -506.000000)">
+            <g id="Followers" transform="translate(746.000000, 514.000000)">
+                <g id="Rectangle-6">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                    <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                </g>
+                <g id="Fill-1" opacity="0.485054348">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-4"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
