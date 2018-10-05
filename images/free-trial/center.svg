@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="332px" height="332px" viewBox="0 0 332 332" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Like round@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="91.4073827%" y1="8.13194333%" x2="8.37076688%" y2="82.0644681%" id="linearGradient-1">
+            <stop stop-color="#FBC8D4" offset="0%"></stop>
+            <stop stop-color="#9795F0" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-2" cx="166" cy="166" r="166"></circle>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Free-Trial" transform="translate(-421.000000, -205.000000)">
+            <g id="Like-round" transform="translate(421.000000, 205.000000)">
+                <mask id="mask-3" fill="white">
+                    <use xlink:href="#path-2"></use>
+                </mask>
+                <use id="Oval-3" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                <g id="Group-3" mask="url(#mask-3)">
+                    <g transform="translate(81.000000, 23.000000)">
+                        <g id="Group" transform="translate(0.000000, 240.000000)">
+                            <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" opacity="0.161005435" cx="23.667" cy="23.667" r="23.667"></circle>
+                            <path d="M22.5791359,16.8638388 C19.8028124,12.100429 12,13.4923223 12,19.4591789 C12,23.5676899 16.9108088,27.7694913 22.5791359,33.3949048 C28.2455972,27.7694913 33.1545401,23.5676899 33.1545401,19.4591789 C33.1545401,13.4717985 25.3330697,12.1377452 22.5791359,16.8638388 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                            <rect id="Rectangle-5" fill="#FFFFFF" opacity="0.161005435" x="62" y="7" width="151" height="12" rx="6"></rect>
+                            <rect id="Rectangle-5-Copy" fill="#FFFFFF" opacity="0.161005435" x="62" y="27" width="80" height="10" rx="5"></rect>
+                        </g>
+                        <g id="Group-Copy" transform="translate(0.000000, 160.000000)">
+                            <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" opacity="0.161005435" cx="23.667" cy="23.667" r="23.667"></circle>
+                            <path d="M22.5791359,16.8638388 C19.8028124,12.100429 12,13.4923223 12,19.4591789 C12,23.5676899 16.9108088,27.7694913 22.5791359,33.3949048 C28.2455972,27.7694913 33.1545401,23.5676899 33.1545401,19.4591789 C33.1545401,13.4717985 25.3330697,12.1377452 22.5791359,16.8638388 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                            <rect id="Rectangle-5" fill="#FFFFFF" opacity="0.161005435" x="62" y="7" width="151" height="12" rx="6"></rect>
+                            <rect id="Rectangle-5-Copy" fill="#FFFFFF" opacity="0.161005435" x="62" y="27" width="80" height="10" rx="5"></rect>
+                        </g>
+                        <g id="Group-Copy-2" transform="translate(0.000000, 80.000000)">
+                            <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" opacity="0.161005435" cx="23.667" cy="23.667" r="23.667"></circle>
+                            <path d="M22.5791359,16.8638388 C19.8028124,12.100429 12,13.4923223 12,19.4591789 C12,23.5676899 16.9108088,27.7694913 22.5791359,33.3949048 C28.2455972,27.7694913 33.1545401,23.5676899 33.1545401,19.4591789 C33.1545401,13.4717985 25.3330697,12.1377452 22.5791359,16.8638388 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                            <rect id="Rectangle-5" fill="#FFFFFF" opacity="0.161005435" x="62" y="7" width="151" height="12" rx="6"></rect>
+                            <rect id="Rectangle-5-Copy" fill="#FFFFFF" opacity="0.161005435" x="62" y="27" width="80" height="10" rx="5"></rect>
+                        </g>
+                        <g id="Group-Copy-3">
+                            <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" opacity="0.161005435" cx="23.667" cy="23.667" r="23.667"></circle>
+                            <path d="M22.5791359,16.8638388 C19.8028124,12.100429 12,13.4923223 12,19.4591789 C12,23.5676899 16.9108088,27.7694913 22.5791359,33.3949048 C28.2455972,27.7694913 33.1545401,23.5676899 33.1545401,19.4591789 C33.1545401,13.4717985 25.3330697,12.1377452 22.5791359,16.8638388 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                            <rect id="Rectangle-5" fill="#FFFFFF" opacity="0.161005435" x="62" y="7" width="151" height="12" rx="6"></rect>
+                            <rect id="Rectangle-5-Copy" fill="#FFFFFF" opacity="0.161005435" x="62" y="27" width="80" height="10" rx="5"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -24,7 +24,15 @@ $(document).ready(function () {
         autoplay: false,
         dots: false,
         prevArrow: '<button type=\'button\' class=\'prevArrow\'><i class=\'ti-angle-left\'></i></button>',
-        nextArrow: '<button type=\'button\' class=\'nextArrow\'><i class=\'ti-angle-right\'></i></button>'
+        nextArrow: '<button type=\'button\' class=\'nextArrow\'><i class=\'ti-angle-right\'></i></button>',
+        responsive: [
+            {
+                breakpoint: 767,
+                settings: {
+                    arrows: false
+                }
+            }
+        ]
     });
 
     // -----------------------------

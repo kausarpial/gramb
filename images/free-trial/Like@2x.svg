@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="214px" height="214px" viewBox="0 0 214 214" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Like@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="97.2200046%" y1="2.68528005%" x2="8.47827327%" y2="95.8941684%" id="linearGradient-1">
+            <stop stop-color="#FF5571" offset="0%"></stop>
+            <stop stop-color="#FF92A4" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-2" cx="59" cy="59" r="59"></circle>
+        <filter x="-80.5%" y="-46.6%" width="261.0%" height="261.0%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="40" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="25" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Free-Trial" transform="translate(-631.000000, -256.000000)">
+            <g id="Like" transform="translate(679.000000, 264.000000)">
+                <g id="Combined-Shape">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                    <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                </g>
+                <path d="M59.5052037,44.9022252 C51.7620392,31.6170779 30,35.4990677 30,52.1406271 C30,63.5992617 43.6962427,75.3180834 59.5052037,91.0073584 C75.308961,75.3180834 89,63.5992617 89,52.1406271 C89,35.4418266 67.1859234,31.7211527 59.5052037,44.9022252 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>
