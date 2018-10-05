@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="295px" height="169px" viewBox="0 0 295 169" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Low Price@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="199" height="73" rx="10"></rect>
+        <filter x="-46.2%" y="-71.2%" width="192.5%" height="352.1%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="40" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="24" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="97.2200046%" y1="2.68528005%" x2="8.47827327%" y2="95.8941684%" id="linearGradient-3">
+            <stop stop-color="#7DACFF" offset="0%"></stop>
+            <stop stop-color="#92C6FF" offset="100%"></stop>
+        </linearGradient>
+        <path d="M19.3979942,38.7959885 C14.2165373,38.7959885 9.34533407,36.7781574 5.68153882,33.1144497 C2.01774358,29.4506544 0,24.5794512 0,19.3979067 C0,14.2166248 2.01774358,9.34533407 5.68153882,5.68153882 C9.34533407,2.01774358 14.2165373,0 19.3979942,0 C24.5793637,0 29.4505669,2.01774358 33.1144497,5.68153882 C36.7782449,9.34533407 38.7959885,14.2166248 38.7959885,19.3979067 C38.7959885,24.5793637 36.7782449,29.4505669 33.1144497,33.1144497 C29.4505669,36.7781574 24.5793637,38.7959885 19.3979942,38.7959885 Z M19.3979942,5.02016002 C15.5575863,5.02016002 11.9470024,6.51576705 9.23138472,9.23138472 C6.51576705,11.9470024 5.02016002,15.5575863 5.02016002,19.3979942 C5.02016002,23.2385773 6.51567953,26.8490736 9.23138472,29.5647788 C11.9470024,32.2802214 15.5575863,33.7758285 19.3979942,33.7758285 C23.2384022,33.7758285 26.8490736,32.2802214 29.5646038,29.5647788 C32.2802214,26.8490736 33.775741,23.2385773 33.775741,19.3979942 C33.775741,15.5575863 32.2802214,11.9470024 29.5646038,9.23138472 C26.8490736,6.51576705 23.2384022,5.02016002 19.3979942,5.02016002 Z" id="path-4"></path>
+        <filter x="-244.9%" y="-141.8%" width="589.7%" height="589.7%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="40" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="25" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M18.512071,22.7522384 C17.7517085,22.7522384 17.0003605,22.4078523 16.5068426,21.7542627 C15.6716517,20.6478513 15.8914986,19.0738275 16.99791,18.2386366 L24.5905071,12.5069496 C25.697181,11.6715836 27.2708547,11.8915181 28.1063082,12.9979295 C28.9414992,14.1043408 28.7215647,15.6783646 27.6152408,16.5136431 L20.0225562,22.2453301 C19.569822,22.5870031 19.038846,22.7522384 18.512071,22.7522384 Z" id="path-6"></path>
+        <filter x="-753.2%" y="-511.5%" width="1606.4%" height="1867.1%" filterUnits="objectBoundingBox" id="filter-7">
+            <feOffset dx="0" dy="40" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="25" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Buy-Instagram-Views-Assets" transform="translate(-516.000000, -96.000000)">
+            <g id="Instant-Delivery" transform="translate(564.000000, 62.000000)">
+                <g id="Low-Price" transform="translate(0.000000, 42.000000)">
+                    <g id="Rectangle-6">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                    <text id="Instant-Delivery" font-family="Ubuntu-Bold, Ubuntu" font-size="14" font-weight="bold" fill="#B4C2C4">
+                        <tspan x="70" y="43">Instant Delivery</tspan>
+                    </text>
+                    <g id="Group" transform="translate(18.000000, 21.000000)" fill-rule="nonzero">
+                        <g id="Shape">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                            <use fill="url(#linearGradient-3)" fill-rule="evenodd" xlink:href="#path-4"></use>
+                        </g>
+                        <g id="Shape">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-7)" xlink:href="#path-6"></use>
+                            <use fill="url(#linearGradient-3)" fill-rule="evenodd" xlink:href="#path-6"></use>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

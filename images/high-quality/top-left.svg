@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="299px" height="173px" viewBox="0 0 299 173" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>10 k followers@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="97.2200046%" y1="2.68528005%" x2="8.47827327%" y2="95.8941684%" id="linearGradient-1">
+            <stop stop-color="#7DACFF" offset="0%"></stop>
+            <stop stop-color="#92C6FF" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="0" width="199" height="73" rx="10"></rect>
+        <filter x="-47.7%" y="-75.3%" width="195.5%" height="360.3%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="40" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="25" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M25,15 L52,15 C56.418278,15 60,18.581722 60,23 L60,50 C60,54.418278 56.418278,58 52,58 L25,58 C20.581722,58 17,54.418278 17,50 L17,23 C17,18.581722 20.581722,15 25,15 Z" id="path-4"></path>
+        <filter x="-220.9%" y="-127.9%" width="541.9%" height="541.9%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="40" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="25" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Buy-Instagram-Views-Assets" transform="translate(-87.000000, -73.000000)">
+            <g id="High-Quality" transform="translate(137.000000, 62.000000)">
+                <g id="10-k-followers" transform="translate(0.000000, 21.000000)">
+                    <g id="Rectangle-6-Copy">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                        <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    </g>
+                    <text id="32,58,58-views" opacity="0.258944746" font-family="Ubuntu-Bold, Ubuntu" font-size="14" font-weight="bold" fill="#FFFFFF">
+                        <tspan x="78" y="43">32,58,58 views</tspan>
+                    </text>
+                    <g id="Rectangle-6">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                        <use fill-opacity="0.300000012" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-4"></use>
+                    </g>
+                    <path d="M31,29.0003914 L31,43.3451669 C31,44.4497364 31.8954305,45.3451669 33,45.3451669 C33.3296046,45.3451669 33.6541002,45.263706 33.944624,45.1080298 L47.3297766,37.935642 C48.3033789,37.4139406 48.6697169,36.2017574 48.1480155,35.2281552 C47.9618546,34.8807406 47.6771912,34.5960772 47.3297766,34.4099163 L33.944624,27.2375285 C32.9710217,26.7158271 31.7588385,27.0821651 31.2371371,28.0557674 C31.0814609,28.3462912 31,28.6707868 31,29.0003914 Z" id="Path-2" fill="#FFFFFF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="308px" height="308px" viewBox="0 0 308 308" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Instagram Followers@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="154" cy="154" r="154"></circle>
+        <linearGradient x1="97.2200046%" y1="2.68528005%" x2="8.47827327%" y2="95.8941684%" id="linearGradient-3">
+            <stop stop-color="#FF5571" offset="0%"></stop>
+            <stop stop-color="#FF92A4" offset="100%"></stop>
+        </linearGradient>
+        <path d="M124,107.000587 L124,201.989508 C124,203.646363 125.343146,204.989508 127,204.989508 C127.494407,204.989508 127.98115,204.867317 128.416936,204.633803 L217.05138,157.139342 C218.511784,156.35679 219.061291,154.538515 218.278739,153.078112 C217.999497,152.55699 217.572502,152.129995 217.05138,151.850753 L128.416936,104.356293 C126.956533,103.573741 125.138258,104.123248 124.355706,105.583651 C124.122191,106.019437 124,106.50618 124,107.000587 Z" id="path-4"></path>
+        <filter x="-100.4%" y="-54.5%" width="300.8%" height="288.1%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="40" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="25" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Buy-Instagram-Views-Assets" transform="translate(-151.000000, -62.000000)">
+            <g id="High-Quality" transform="translate(137.000000, 62.000000)">
+                <g id="Instagram-Followers" transform="translate(14.000000, 0.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Oval-2" fill="#9795F0" opacity="0.136096014" xlink:href="#path-1"></use>
+                    <g id="Path-2" mask="url(#mask-2)">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                        <use fill="url(#linearGradient-3)" fill-rule="evenodd" xlink:href="#path-4"></use>
+                    </g>
+                    <path d="M158.702796,159.202796 L158.702796,135.202796 L162.702796,135.202796 L162.702796,159.202796 L162.702796,163.202796 L147.702796,163.202796 L147.702796,159.202796 L158.702796,159.202796 Z" id="Combined-Shape" fill="#FFFFFF" mask="url(#mask-2)" transform="translate(155.202796, 149.202796) rotate(-315.000000) translate(-155.202796, -149.202796) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

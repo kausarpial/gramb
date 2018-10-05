@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="296px" height="169px" viewBox="0 0 296 169" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>15 View@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="200" height="73" rx="10"></rect>
+        <filter x="-46.0%" y="-71.2%" width="192.0%" height="352.1%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="40" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="24" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M35.9998172,23 C27.5932986,23 19.9696138,27.5592375 14.3441915,34.9650568 C13.8852695,35.5715573 13.8852695,36.4192973 14.3441915,37.0262439 C19.9696138,44.4403164 27.5932986,49 35.9998172,49 C44.4067858,49 52.0301331,44.4403164 57.6555554,37.0349432 C58.1148149,36.4279966 58.1148149,35.5807027 57.6555554,34.9737561 C52.0301331,27.5592375 44.4067858,23 35.9998172,23 Z M36.6027499,45.1544434 C31.0226685,45.5025287 26.4142101,40.9428451 26.7653489,35.4020316 C27.053258,30.8336486 30.7884259,27.130962 35.3968844,26.8455566 C40.9774158,26.4974713 45.5854243,31.0567087 45.2347354,36.5979684 C44.9376006,41.1572059 41.2024327,44.8598925 36.6027499,45.1544434 Z M36.324179,40.9250003 C33.3176158,41.1122593 30.8336543,38.6585979 31.0314442,35.6787377 C31.1843432,33.2163769 33.2007195,31.2266806 35.684681,31.0658542 C38.6912442,30.8785952 41.1752057,33.3322566 40.9774158,36.3121169 C40.8152912,38.7837346 38.7993648,40.7733194 36.324179,40.9250003 Z" id="path-3"></path>
+        <filter x="-215.9%" y="-211.5%" width="531.8%" height="830.8%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="40" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="25" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Buy-Instagram-Views-Assets" transform="translate(-231.000000, -276.000000)">
+            <g id="High-Quality" transform="translate(137.000000, 62.000000)">
+                <g id="15-View" transform="translate(142.000000, 222.000000)">
+                    <g id="Rectangle-6-Copy">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                    <g id="Fill-1" opacity="0.429857337">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                        <use fill="#535BFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    </g>
+                    <text id="15,300,0-View" font-family="Ubuntu-Bold, Ubuntu" font-size="14" font-weight="bold" fill="#B4C2C4">
+                        <tspan x="73" y="41">15,300,0 View</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
