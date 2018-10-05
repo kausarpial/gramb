@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="299px" height="173px" viewBox="0 0 299 173" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>10 k followers copy 2@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="97.2200046%" y1="2.68528005%" x2="8.47827327%" y2="95.8941684%" id="linearGradient-1">
+            <stop stop-color="#FF5571" offset="0%"></stop>
+            <stop stop-color="#FF92A4" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="0" width="199" height="73" rx="10"></rect>
+        <filter x="-47.7%" y="-75.3%" width="195.5%" height="360.3%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="40" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="25" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Automatic-Likes-Copy_2" transform="translate(-310.000000, -687.000000)">
+            <g id="Lowest-Price" transform="translate(126.000000, 487.000000)">
+                <g id="10-k-followers-copy-2" transform="translate(234.000000, 210.000000)">
+                    <g id="Rectangle-6-Copy">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                        <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    </g>
+                    <text id="Guaranteed" opacity="0.336899909" font-family="Ubuntu-Bold, Ubuntu" font-size="14" font-weight="bold" fill="#FFFFFF">
+                        <tspan x="81" y="43">Guaranteed</tspan>
+                    </text>
+                    <path d="M37.3144531,59.272551 C31.1820461,59.272551 25.4168335,56.8843884 21.0806239,52.5482824 C16.7444142,48.2120727 14.3563553,42.4468602 14.3563553,36.3143495 C14.3563553,30.1821497 16.7444142,24.4168335 21.0806239,20.0806239 C25.4168335,15.7444142 31.1820461,13.3563553 37.3144531,13.3563553 C43.4467566,13.3563553 49.2119691,15.7444142 53.5482824,20.0806239 C57.884492,24.4168335 60.272551,30.1821497 60.272551,36.3143495 C60.272551,42.4467566 57.884492,48.2119691 53.5482824,52.5482824 C49.2119691,56.8843884 43.4467566,59.272551 37.3144531,59.272551 Z M37.3144591,17.3271089 C32.2428227,17.3271089 27.4746916,19.3022051 23.8884513,22.8884453 C20.3022111,26.4746856 18.3271149,31.2428167 18.3271149,36.3144531 C18.3271149,41.3863207 20.3020955,46.1543363 23.8884513,49.7406921 C27.4746916,53.3267012 32.2428227,55.3017973 37.3144591,55.3017973 C42.3860956,55.3017973 47.1543423,53.3267012 50.7404669,49.7406921 C54.3267071,46.1543363 56.3016877,41.3863207 56.3016877,36.3144531 C56.3016877,31.2428167 54.3267071,26.4746856 50.7404669,22.8884453 C47.1543423,19.3022051 42.3860956,17.3271089 37.3144591,17.3271089 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero" opacity="0.336899909"></path>
+                    <path d="M40.7027958,44.2027958 L40.7027958,20.2027958 L44.7027958,20.2027958 L44.7027958,44.2027958 L44.7027958,48.2027958 L29.7027958,48.2027958 L29.7027958,44.2027958 L40.7027958,44.2027958 Z" id="Combined-Shape" fill="#FFFFFF" opacity="0.336899909" transform="translate(37.202796, 34.202796) rotate(-315.000000) translate(-37.202796, -34.202796) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

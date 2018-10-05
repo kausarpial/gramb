@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="299px" height="173px" viewBox="0 0 299 173" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>10 k followers copy@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="97.2200046%" y1="2.68528005%" x2="8.47827327%" y2="95.8941684%" id="linearGradient-1">
+            <stop stop-color="#55FFBB" offset="0%"></stop>
+            <stop stop-color="#47E0AC" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="0" width="199" height="73" rx="10"></rect>
+        <filter x="-47.7%" y="-75.3%" width="195.5%" height="360.3%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="40" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="25" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Automatic-Likes-Copy_2" transform="translate(-1046.000000, -100.000000)">
+            <g id="Instant-Detection" transform="translate(1096.000000, 62.000000)">
+                <g id="10-k-followers-copy" transform="translate(0.000000, 48.000000)">
+                    <g id="Rectangle-6-Copy">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                        <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    </g>
+                    <path d="M44,43 L44,19 L48,19 L48,43 L48,47 L33,47 L33,43 L44,43 Z" id="Combined-Shape" fill="#FFFFFF" transform="translate(40.500000, 33.000000) rotate(-315.000000) translate(-40.500000, -33.000000) "></path>
+                    <text id="Detect" opacity="0.859997736" font-family="Ubuntu-Bold, Ubuntu" font-size="14" font-weight="bold" fill="#FFFFFF">
+                        <tspan x="71" y="43">Detect</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

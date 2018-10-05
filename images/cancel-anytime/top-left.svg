@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="299px" height="173px" viewBox="0 0 299 173" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Low Price Copy@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="97.2200046%" y1="2.68528005%" x2="8.47827327%" y2="95.8941684%" id="linearGradient-1">
+            <stop stop-color="#7DACFF" offset="0%"></stop>
+            <stop stop-color="#92C6FF" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="0" width="199" height="73" rx="10"></rect>
+        <filter x="-47.7%" y="-75.3%" width="195.5%" height="360.3%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="40" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="25" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Automatic-Likes-Copy_2" transform="translate(-759.000000, -685.000000)">
+            <g id="Cancel-Anytime" transform="translate(591.000000, 487.000000)">
+                <g id="Low-Price-Copy" transform="translate(218.000000, 208.000000)">
+                    <g id="Rectangle-6">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                        <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    </g>
+                    <path d="M39.3979942,55.7959885 C34.2165373,55.7959885 29.3453341,53.7781574 25.6815388,50.1144497 C22.0177436,46.4506544 20,41.5794512 20,36.3979067 C20,31.2166248 22.0177436,26.3453341 25.6815388,22.6815388 C29.3453341,19.0177436 34.2165373,17 39.3979942,17 C44.5793637,17 49.4505669,19.0177436 53.1144497,22.6815388 C56.7782449,26.3453341 58.7959885,31.2166248 58.7959885,36.3979067 C58.7959885,41.5793637 56.7782449,46.4505669 53.1144497,50.1144497 C49.4505669,53.7781574 44.5793637,55.7959885 39.3979942,55.7959885 Z M39.3979973,21.01008 C35.2877908,21.01008 31.423554,22.6107573 28.5171572,25.5171541 C25.6107604,28.423551 24.0100831,32.2877877 24.0100831,36.3979942 C24.0100831,40.5083881 25.6106667,44.3725312 28.5171572,47.2790217 C31.423554,50.1852312 35.2877908,51.7859085 39.3979973,51.7859085 C43.5082039,51.7859085 47.3725343,50.1852312 50.2788374,47.2790217 C53.1852343,44.3725312 54.7858179,40.5083881 54.7858179,36.3979942 C54.7858179,32.2877877 53.1852343,28.423551 50.2788374,25.5171541 C47.3725343,22.6107573 43.5082039,21.01008 39.3979973,21.01008 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero" opacity="0.338937953"></path>
+                    <path d="M41.0835411,34.0835411 L49.0835411,34.0835411 L49.0835411,38.0835411 L41.0835411,38.0835411 L41.0835411,46.0835411 L37.0835411,46.0835411 L37.0835411,38.0835411 L29.0835411,38.0835411 L29.0835411,34.0835411 L37.0835411,34.0835411 L37.0835411,26.0835411 L41.0835411,26.0835411 L41.0835411,34.0835411 Z" id="Combined-Shape" fill="#FFFFFF" opacity="0.338937953" transform="translate(39.083541, 36.083541) rotate(-315.000000) translate(-39.083541, -36.083541) "></path>
+                    <text id="Any-Days" opacity="0.403702446" font-family="Ubuntu-Bold, Ubuntu" font-size="14" font-weight="bold" fill="#FFFFFF">
+                        <tspan x="73" y="40">Any Days</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -215,6 +215,10 @@ textarea.form-control {
   background-position: center center;
 }
 
+.downloader {
+  padding: 200px 0;
+}
+
 .main-nav {
   padding: 25px 30px;
   transition: .3s ease .02s;
@@ -558,6 +562,75 @@ textarea.form-control {
 @media (max-width: 400px) {
   .hero__area-images.likes .bottom-right img {
     width: 250px;
+  }
+}
+
+.hero__area-images.automatic .top-left {
+  left: 40px;
+  top: 40px;
+  z-index: 1;
+  animation: updown_illustration 5s ease-in infinite alternate-reverse;
+}
+
+@media (max-width: 575px) {
+  .hero__area-images.automatic .top-left {
+    left: 0;
+  }
+}
+
+.hero__area-images.automatic .top-left img {
+  width: 180px;
+}
+
+@media (max-width: 400px) {
+  .hero__area-images.automatic .top-left img {
+    width: 100px;
+  }
+}
+
+.hero__area-images.automatic .top-right {
+  right: 70px;
+  top: 60px;
+  z-index: 1;
+  animation: updown_illustration 3s ease-in infinite alternate-reverse;
+}
+
+@media (max-width: 575px) {
+  .hero__area-images.automatic .top-right {
+    right: 0;
+  }
+}
+
+.hero__area-images.automatic .top-right img {
+  width: 180px;
+}
+
+@media (max-width: 400px) {
+  .hero__area-images.automatic .top-right img {
+    width: 100px;
+  }
+}
+
+.hero__area-images.automatic .bottom-right {
+  right: 40px;
+  bottom: 40px;
+  z-index: 1;
+  animation: updown_illustration 6s ease-in infinite alternate-reverse;
+}
+
+@media (max-width: 575px) {
+  .hero__area-images.automatic .bottom-right {
+    right: 0;
+  }
+}
+
+.hero__area-images.automatic .bottom-right img {
+  width: 180px;
+}
+
+@media (max-width: 400px) {
+  .hero__area-images.automatic .bottom-right img {
+    width: 100px;
   }
 }
 
