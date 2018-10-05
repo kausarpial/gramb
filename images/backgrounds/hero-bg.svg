@@ -3,30 +3,25 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 1600 610" style="enable-background:new 0 0 1600 610;" xml:space="preserve">
 <style type="text/css">
-	.st0{opacity:0.3145;fill:url(#BG_1_);enable-background:new    ;}
-	.st1{opacity:0.3145;fill:url(#BG-Copy-2_1_);enable-background:new    ;}
-	.st2{fill:url(#BG-Copy_1_);}
+	.st0{opacity:0.3145;fill:url(#BG-Copy_3_);enable-background:new    ;}
+	.st1{opacity:0.3145;fill:url(#BG-Copy_4_);enable-background:new    ;}
+	.st2{fill:url(#BG-Copy_5_);}
 </style>
 <title>Home banner@2x</title>
 <desc>Created with Sketch.</desc>
-<g id="Home-banner">
-	
-		<linearGradient id="BG_1_" gradientUnits="userSpaceOnUse" x1="502.6029" y1="811.0173" x2="501.8636" y2="811.8477" gradientTransform="matrix(1600.4532 0 0 -609 -802925.5 494411)">
-		<stop  offset="0" style="stop-color:#FBC8D4"/>
-		<stop  offset="1" style="stop-color:#9795F0"/>
-	</linearGradient>
-	<path id="BG" class="st0" d="M0,0h1600l0.5,433C1354.3,550.3,1094.5,609,821,609S274,550.3,0.5,433L0,0z"/>
-	
-		<linearGradient id="BG-Copy-2_1_" gradientUnits="userSpaceOnUse" x1="502.5518" y1="811.814" x2="501.7215" y2="811.0746" gradientTransform="matrix(1600.4532 0 0 -609 -802925.5 494411)">
-		<stop  offset="0" style="stop-color:#FBC8D4"/>
-		<stop  offset="1" style="stop-color:#9795F0"/>
-	</linearGradient>
-	<path id="BG-Copy-2" class="st1" d="M0,0h1600l0.5,393C1354.3,537,1094.5,609,821,609S274,537,0.5,393L0,0z"/>
-	
-		<linearGradient id="BG-Copy_1_" gradientUnits="userSpaceOnUse" x1="502.5468" y1="811.8197" x2="501.7164" y2="811.0804" gradientTransform="matrix(1600.4532 0 0 -609 -802925.5 494411)">
-		<stop  offset="0" style="stop-color:#FBC8D4"/>
-		<stop  offset="1" style="stop-color:#9795F0"/>
-	</linearGradient>
-	<path id="BG-Copy" class="st2" d="M0,0h1600l0.5,353C1354.3,523.7,1094.5,609,821,609S274,523.7,0.5,353L0,0z"/>
-</g>
+<linearGradient id="BG-Copy_3_" gradientUnits="userSpaceOnUse" x1="602.518" y1="810.2983" x2="601.5691" y2="809.4536" gradientTransform="matrix(1600.4532 0 0 -609 -962870.875 493523)">
+	<stop  offset="0" style="stop-color:#FBC8D4"/>
+	<stop  offset="1" style="stop-color:#9795F0"/>
+</linearGradient>
+<path id="BG-Copy_2_" class="st0" d="M0,0h1600l0.5,530c0,0-308.5,80-800.5,80C308.2,610,0.5,530,0.5,530L0,0z"/>
+<linearGradient id="BG-Copy_4_" gradientUnits="userSpaceOnUse" x1="602.5083" y1="810.3143" x2="601.5828" y2="809.4904" gradientTransform="matrix(1600.4532 0 0 -609 -962870.875 493523)">
+	<stop  offset="0" style="stop-color:#FBC8D4"/>
+	<stop  offset="1" style="stop-color:#9795F0"/>
+</linearGradient>
+<path id="BG-Copy_1_" class="st1" d="M0,0h1600l0.5,500c0,0-308.5,110-800.5,110C308.2,610,0.5,500,0.5,500L0,0z"/>
+<linearGradient id="BG-Copy_5_" gradientUnits="userSpaceOnUse" x1="602.4998" y1="810.3288" x2="601.5978" y2="809.5257" gradientTransform="matrix(1600.4532 0 0 -609 -962870.875 493523)">
+	<stop  offset="0" style="stop-color:#FBC8D4"/>
+	<stop  offset="1" style="stop-color:#9795F0"/>
+</linearGradient>
+<path id="BG-Copy" class="st2" d="M0,0h1600l0.5,470c0,0-308.5,140-800.5,140C308.2,610,0.5,470,0.5,470L0,0z"/>
 </svg>

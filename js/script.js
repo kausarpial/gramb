@@ -16,9 +16,6 @@ $(document).ready(function () {
             scrollTop: ($($anchor.attr('href')).offset().top - 0)
         }, 700);
         event.preventDefault();
-        if (screen.width < 992) {
-            $('.navbar-toggler').click();
-        }
     });
 
     // testimonial slider
